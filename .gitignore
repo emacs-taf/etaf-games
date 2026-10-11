@@ -1,0 +1,10 @@
+# Independently versioned game applications.
+/etaf-solitaire/
+/etaf-salvage/
+/etaf-xiangqi/
+/etaf-tanks/
+*.elc
+*.eln
+*.pyc
+__pycache__/
+.DS_Store
