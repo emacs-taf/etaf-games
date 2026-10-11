@@ -2,6 +2,7 @@
   "schema": 1,
   "repositories": {
     "etaf-solitaire": {"branch": "main", "url": null},
-    "etaf-salvage": {"branch": "main", "url": null}
+    "etaf-salvage": {"branch": "main", "url": null},
+    "etaf-xiangqi": {"branch": "main", "url": null}
   }
 }
