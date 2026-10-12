@@ -1,10 +1,18 @@
 {
-  "etaf-solitaire": {
-    "entry": "etaf-solitaire",
-    "url": null
-  },
   "etaf-salvage": {
     "entry": "etaf-salvage",
-    "url": null
+    "url": "https://github.com/emacs-taf/etaf-salvage.git"
+  },
+  "etaf-solitaire": {
+    "entry": "etaf-solitaire",
+    "url": "https://github.com/emacs-taf/etaf-solitaire.git"
+  },
+  "etaf-tanks": {
+    "entry": "etaf-tanks",
+    "url": "https://github.com/emacs-taf/etaf-tanks.git"
+  },
+  "etaf-xiangqi": {
+    "entry": "etaf-xiangqi",
+    "url": "https://github.com/emacs-taf/etaf-xiangqi.git"
   }
 }
