@@ -2,11 +2,13 @@
   "schema": 1,
   "repositories": {
     "etaf-solitaire": {
-      "url": null,
+      "url": "git@gitea.gklazycat.heiyu.space:emacs-taf/etaf-solitaire.git",
+      "revision": "bf34506f8dcc127fdbdc5cb356d2d3bca9d4e302",
       "branch": "main"
     },
     "etaf-salvage": {
-      "url": null,
+      "url": "git@gitea.gklazycat.heiyu.space:emacs-taf/etaf-salvage.git",
+      "revision": "f3ad2192f0a21f50e92b6a88e7c54f3ba3223ea3",
       "branch": "main"
     },
     "etaf-xiangqi": {
