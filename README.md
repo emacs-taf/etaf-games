@@ -21,7 +21,7 @@ load or launch a game.
 
 ## Requirements and use
 
-Use Emacs 29.1+ with [etaf-gamekit](https://forgejo.vhkd.top/emacs-taf/etaf-gamekit),
+Use Emacs 29.1+ with [etaf-gamekit](https://github.com/emacs-taf/etaf-gamekit),
 `etaf` and `etaf-ui` and their dependencies.
 In an emacs-taf checkout, the framework repositories are siblings of this
 workspace; games are children of this directory. Install only the native backend

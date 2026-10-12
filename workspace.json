@@ -2,22 +2,22 @@
   "schema": 1,
   "repositories": {
     "etaf-solitaire": {
-      "url": "git@gitea.gklazycat.heiyu.space:emacs-taf/etaf-solitaire.git",
+      "url": "https://github.com/emacs-taf/etaf-solitaire.git",
       "revision": "f0eeaccd5cf593ff0c9f21ebaa0c9d11854194fd",
       "branch": "main"
     },
     "etaf-salvage": {
-      "url": "git@gitea.gklazycat.heiyu.space:emacs-taf/etaf-salvage.git",
+      "url": "https://github.com/emacs-taf/etaf-salvage.git",
       "revision": "fe51d426659eec982d1678aad31fe0e3a1ccc2dd",
       "branch": "main"
     },
     "etaf-xiangqi": {
-      "url": "git@gitea.gklazycat.heiyu.space:emacs-taf/etaf-xiangqi.git",
+      "url": "https://github.com/emacs-taf/etaf-xiangqi.git",
       "revision": "6550dfa7a53b062094551612b8ca1cd0ab4be222",
       "branch": "main"
     },
     "etaf-tanks": {
-      "url": "git@gitea.gklazycat.heiyu.space:emacs-taf/etaf-tanks.git",
+      "url": "https://github.com/emacs-taf/etaf-tanks.git",
       "revision": "9d8afae72c3698c06acccee0fb5a5f133ba3e804",
       "branch": "main"
     }
