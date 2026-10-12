@@ -11,12 +11,12 @@
     },
     "etaf-xiangqi": {
       "url": "git@gitea.gklazycat.heiyu.space:emacs-taf/etaf-xiangqi.git",
-      "revision": "260fa8ff5bc9a65a98908c4c4f5bad403fd6a90c",
+      "revision": "0351cddff4be49d2114adda65fdff0b992580fc5",
       "branch": "main"
     },
     "etaf-tanks": {
       "url": "git@gitea.gklazycat.heiyu.space:emacs-taf/etaf-tanks.git",
-      "revision": "3588051af4a946c5e0f6f44f62df6253b44ac71c",
+      "revision": "be859a6777ee5abaa7c9a903c8cb964514f5103b",
       "branch": "main"
     }
   }
