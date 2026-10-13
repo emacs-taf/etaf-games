@@ -18,7 +18,7 @@
     },
     "etaf-tanks": {
       "url": "https://github.com/emacs-taf/etaf-tanks.git",
-      "revision": "65788d48ad54d577371b4a52a57b3f218f359089",
+      "revision": "ebce977be4fbe55f73b018c4604cf919e401fed5",
       "branch": "main"
     }
   }
