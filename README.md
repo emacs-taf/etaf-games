@@ -11,7 +11,7 @@ contract and integration commands, not their implementations.
 | --- | --- | --- |
 | `etaf-solitaire` | Verdant: K+ Klondike solitaire | OpenSpiel |
 | `etaf-salvage` | Salvage Station: real-time exploration and extraction | Godot |
-| `etaf-xiangqi` | Chu He: xiangqi (Chinese chess) hot-seat | OpenSpiel |
+| `etaf-xiangqi` | Chu He: xiangqi (Chinese chess) against the computer or hot-seat | OpenSpiel |
 | `etaf-tanks` | Iron Tide: real-time tank battle | Godot |
 
 Game applications live here, not inside `etaf-gamekit/examples/`. GameKit stays
