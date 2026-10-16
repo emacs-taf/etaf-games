@@ -3,22 +3,22 @@
   "repositories": {
     "etaf-solitaire": {
       "url": "https://github.com/emacs-taf/etaf-solitaire.git",
-      "revision": "f0eeaccd5cf593ff0c9f21ebaa0c9d11854194fd",
+      "revision": "1a8428ab3bb05057085be425af8b37d0b5666c8d",
       "branch": "main"
     },
     "etaf-salvage": {
       "url": "https://github.com/emacs-taf/etaf-salvage.git",
-      "revision": "fe51d426659eec982d1678aad31fe0e3a1ccc2dd",
+      "revision": "2e6dc7796c66c119d1e46d0ebcd9e3f9530a26e0",
       "branch": "main"
     },
     "etaf-xiangqi": {
       "url": "https://github.com/emacs-taf/etaf-xiangqi.git",
-      "revision": "6550dfa7a53b062094551612b8ca1cd0ab4be222",
+      "revision": "78ad4c6e77d9530c2345de726d0f172da79cf5e6",
       "branch": "main"
     },
     "etaf-tanks": {
       "url": "https://github.com/emacs-taf/etaf-tanks.git",
-      "revision": "ebce977be4fbe55f73b018c4604cf919e401fed5",
+      "revision": "08b6ce44e8b2aa60cab24d04845d051d1544b478",
       "branch": "main"
     }
   }
